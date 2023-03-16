@@ -1,16 +1,13 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#B026FF&height=120&section=header"/>
 
-<!--
-**denielzzz/denielzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f8f9f9&repeat=false&duration=3000&pause=1490&size=45&center=true&vCenter=true&width=1000&lines=Hello,+welcome+:%29)](https://git.io/typing-svg) 
+       
+ <img width=25% src="https://capsule-render.vercel.app/api?type=transparent&color=#B026FF&height=10"/> <a href="https://github.com/denielzzz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=denielzzz&show_icons=true&title_color=7A67AC&icon_color=CA2E55&text_color=f8f9f9&bg_color=DEG,1f1922,3a2f3e&border_color=5d5162&include_all_commits=true&theme=transparent" />
+</a>    
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=denielzzz&bg_color=0d1117&color=c3daf9&line=7A67AC&point=C92E55&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#B026FF&height=120&section=footer"/>
