@@ -1,8 +1,8 @@
-
 #
 
+![Header](https://capsule-render.vercel.app/api?text=Hey,+Welcome!👋&fontColor=C3DAF9&fontSize=50&fontAlign=58&type=transparent&fontAlignY=60)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C3DAF9&repeat=false&&size=55&center=true&vCenter=true&width=1000&lines=Hey,+welcome👋)](https://git.io/typing-svg) 
+
 # 
 
  <img width=23% src="https://capsule-render.vercel.app/api?type=transparent&color=#B026FF&height=10"/> <a href="https://github.com/denielzzz/github-readme-stats">
