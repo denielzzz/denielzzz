@@ -1,6 +1,6 @@
 #
 
-![Header](https://capsule-render.vercel.app/api?text=Hey,+Welcome!👋&fontColor=C3DAF9&fontSize=50&fontAlign=51.2&type=transparent&fontAlignY=60)
+![Header](https://capsule-render.vercel.app/api?text=Hey,+Welcome!👋&fontColor=C3DAF9&fontSize=50&fontAlign=50&type=transparent&fontAlignY=60)
 
 
 # 
