@@ -1,11 +1,11 @@
 #
 
-![Header](https://capsule-render.vercel.app/api?text=Hey,+Welcome!👋&fontColor=C3DAF9&fontSize=50&fontAlign=50&type=transparent&fontAlignY=60)
+![Header](https://capsule-render.vercel.app/api?text=Hey,+Welcome!👋&fontColor=C3DAF9&fontSize=50&fontAlign=52&type=transparent&fontAlignY=60)
 
 
 # 
 
- <img width=22% src="https://capsule-render.vercel.app/api?type=transparent&color=#B026FF&height=10"/> <a href="https://github.com/denielzzz/github-readme-stats">
+ <img width=20% src="https://capsule-render.vercel.app/api?type=transparent&color=#B026FF&height=10"/> <a href="https://github.com/denielzzz/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=denielzzz&show_icons=true&title_color=7A67AC&icon_color=CA2E55&text_color=f8f9f9&bg_color=DEG,1f1922,3a2f3e&border_color=5d5162&include_all_commits=true&theme=transparent" />
 </a>    
 
