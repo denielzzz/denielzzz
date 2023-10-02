@@ -13,12 +13,10 @@
 
 <br>
 
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=denielzzz&card_width=200px&show_icons=true&theme=dracula&card_width=50" />
- </a>
- <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denielzzz&layout=compact&card_width=200&langs_count=8&theme=dracula" />
- </a>
+<p align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=denielzzz&show_icons=true&theme=dracula" />
+<p align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denielzzz&layout=compact&langs_count=8&theme=dracula" />
 
 <br>
 <br>
@@ -26,6 +24,9 @@
  #
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=denielzzz&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
  #
 
