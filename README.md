@@ -1,14 +1,31 @@
 #
+<!--<p align="center">-->
+ 
+ <br>
 
-![Header](https://capsule-render.vercel.app/api?text=Hey,+Welcome!👋&fontColor=C3DAF9&fontSize=50&fontAlign=50&type=transparent&fontAlignY=60)
+<p align="center">
+  <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/meow/meow-dancing-gif.gif" height="50" width="50" >
+  <img src="https://readme-typing-svg.demolab.com?&color=ff6e96&width=500&size=30&vCenter=true&duration=3000&pause=500&center=true&lines=Hey,+Welcome!!👋👋;Oi,+Bem+Vindo!!👋👋;Hallo,+Willkommen!!👋👋;Salut,+Bienvenue!!👋👋;Ciao,+Benvenuto!!👋👋;你好，+欢迎!!👋👋">
+  <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/meow/meow-dancing-gif.gif" height="50" width="50">
+ 
+
+ #
+
+<br>
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=denielzzz&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denielzzz&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
+
+<br>
+<br>
 
 
-# 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=denielzzz&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- <img width=22.5% src="https://capsule-render.vercel.app/api?type=transparent&color=#B026FF&height=10"/>
 
- <img width=22.5% src="https://capsule-render.vercel.app/api?type=transparent&color=#B026FF&height=10"/> <a href="https://github.com/denielzzz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=denielzzz&show_icons=true&title_color=7A67AC&icon_color=CA2E55&text_color=f8f9f9&bg_color=DEG,1f1922,3a2f3e&border_color=5d5162&include_all_commits=true&theme=transparent" />
-</a>    
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=denielzzz&bg_color=0d1117&color=c3daf9&line=7A67AC&point=C92E55&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
