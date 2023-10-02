@@ -15,8 +15,18 @@
 
 <p align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=denielzzz&show_icons=true&theme=dracula" />
+ 
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denielzzz&layout=compact&langs_count=8&theme=dracula" />
+  <div style="margin-right: 20px;">
+    <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-leave-gif.gif" height="50" width="50">
+  </div>
+  <div style="margin-right: 20px;">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denielzzz&layout=compact&langs_count=8&theme=dracula">
+  </div>
+  <div>
+    <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-join-gif.gif" height="50" width="50">
+  </div>
+</p>
 
 <br>
 <br>
