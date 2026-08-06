@@ -106,28 +106,17 @@ philosophy: "Building resilient, self-healing, high-concurrency systems engineer
 
 ---
 
-## Connect & Network
-
-<div align="center">
-
-<a href="https://github.com/denielzzz">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/denielzzz">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### *"Engineering robust, scalable software architecture from low-level systems to distributed cloud environments."*
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=denielzzz&style=for-the-badge&color=7c3aed&label=SYSTEM+VISITS"/>
+<img src="https://komarev.com/ghpvc/?username=denielzzz&style=for-the-badge&color=0a66c2&label=SYSTEM+VISITS"/>
+<a href="https://linkedin.com/in/denielzzz">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 
 </div>
 
