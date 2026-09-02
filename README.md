@@ -100,7 +100,7 @@ philosophy: "Building resilient, self-healing, high-concurrency systems engineer
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/denielzzz/denielzzz/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/denielzzz/denielzzz/dist/github-snake-dark.svg?palette=github-dark"/>
 
 </div>
 
